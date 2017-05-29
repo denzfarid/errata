@@ -2,6 +2,10 @@
 # AUTHOR : R.Farid.Nugraha <farid_@msn.com>
 # Errata update repository
 # copy this file in /etc/cron.weekly or you can set in crontab
+#
+# Package module install
+# yum install perl-Switch perl-Data-Dumper perl-Frontier-RPC perl-Text-Unidecode perl-XML-Simple pulp-admin-client pulp-rpm-admin-extensions -y
+
 
 MAILTO=root
 
